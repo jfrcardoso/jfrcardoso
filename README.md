@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jfrcardoso
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in EPICS
+- 🌱 I’m currently learning Python
 - 📫 How to reach me ...
 
 <!---
